@@ -45,3 +45,6 @@ cd src/learning/
 python train.py cWGAN example.json
 ```
 
+## Acknowledgements
+
+This work was supported by the Davidson Research Initiative at Davidson College.
